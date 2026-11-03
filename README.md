@@ -1,1 +1,2 @@
 ## Notes
+chart: weekly revenue
