@@ -1,1 +1,2 @@
 note: check outliers
+notes:  fix date parsing
